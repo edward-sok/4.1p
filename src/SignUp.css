@@ -1,0 +1,36 @@
+td{
+    table-layout: auto;
+    
+    text-align:center;
+
+}
+
+.signupdaily{
+    font-weight: bold;
+    background-color: grey;
+    width: 300px;
+
+}
+
+.email{
+    font-weight: bold;
+    width: 500px;
+
+}
+
+.subbutton{
+    background-color:grey;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.Searchsu{
+    font-weight: bold;
+    width: 400px;
+
+}
